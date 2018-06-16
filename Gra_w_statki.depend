@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513895533 source:c:\users\lenovo-pc\desktop\statki_pdw1\gra_w_statki\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1516925382 source:c:\users\lenovo-pc\desktop\gra_w_okrety\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1517004916 source:c:\users\lenovo-pc\desktop\ststaki_documentation\gra_w_okrety\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1517083820 source:d:\home\umk\ii_rok\pdw_1\gra_w_okrety-oddana\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
